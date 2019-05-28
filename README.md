@@ -1,2 +1,5 @@
 # Planetary-Orbits
-This python script simulates planetary orbits. See the README to find the original version.
+This code was built off code initially found here:
+https://fiftyexamples.readthedocs.io/en/latest/gravity.html
+
+2019_05_27 - Additional planetary bodies were added.
